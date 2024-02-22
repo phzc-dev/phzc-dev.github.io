@@ -1,0 +1,372 @@
+{
+  "vaultName": "Ticket App Prototyping",
+  "lastExport": 1708585177087,
+  "pluginVersion": "1.8.0",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Guia/Módulos/Core/Analytics.md",
+    "Guia/Módulos/Core/Chat.md",
+    "Guia/Módulos/Core/Gestor.md",
+    "Guia/Módulos/Core/Ticket.md",
+    "Guia/Tecnologias/API/Flask.md",
+    "Guia/Tecnologias/API/Flask Restful.md",
+    "Guia/Tecnologias/API/Insomnia.md",
+    "Guia/Tecnologias/API/Pymongo.md",
+    "Guia/Tecnologias/DB/Mongo Atlas.md",
+    "Guia/Tecnologias/DB/Mongo DB.md",
+    "Guia/Tecnologias/Webapp/Apex Charts.md",
+    "Guia/Tecnologias/Webapp/Daisy UI.md",
+    "Guia/Tecnologias/Webapp/Next Auth.md",
+    "Guia/Tecnologias/Webapp/Next JS.md",
+    "Guia/Tecnologias/Webapp/Tailwind CSS.md",
+    "Guia/Tecnologias/Webapp/Web Sockets.md",
+    "Guia/Mapa.canvas",
+    "index.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Guia/Módulos/Core/Analytics.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/módulos/core/analytics.html",
+      "dependencies": []
+    },
+    "Guia/Módulos/Core/Chat.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 837,
+      "exportedPath": "guia/módulos/core/chat.html",
+      "dependencies": []
+    },
+    "Guia/Módulos/Core/Gestor.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/módulos/core/gestor.html",
+      "dependencies": []
+    },
+    "Guia/Módulos/Core/Ticket.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/módulos/core/ticket.html",
+      "dependencies": []
+    },
+    "Guia/Tecnologias/API/Flask.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/tecnologias/api/flask.html",
+      "dependencies": []
+    },
+    "Guia/Tecnologias/API/Flask Restful.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/tecnologias/api/flask-restful.html",
+      "dependencies": []
+    },
+    "Guia/Tecnologias/API/Insomnia.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/tecnologias/api/insomnia.html",
+      "dependencies": []
+    },
+    "Guia/Tecnologias/API/Pymongo.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/tecnologias/api/pymongo.html",
+      "dependencies": []
+    },
+    "Guia/Tecnologias/DB/Mongo Atlas.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/tecnologias/db/mongo-atlas.html",
+      "dependencies": []
+    },
+    "Guia/Tecnologias/DB/Mongo DB.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/tecnologias/db/mongo-db.html",
+      "dependencies": []
+    },
+    "Guia/Tecnologias/Webapp/Apex Charts.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/tecnologias/webapp/apex-charts.html",
+      "dependencies": []
+    },
+    "Guia/Tecnologias/Webapp/Daisy UI.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/tecnologias/webapp/daisy-ui.html",
+      "dependencies": []
+    },
+    "Guia/Tecnologias/Webapp/Next Auth.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/tecnologias/webapp/next-auth.html",
+      "dependencies": []
+    },
+    "Guia/Tecnologias/Webapp/Next JS.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/tecnologias/webapp/next-js.html",
+      "dependencies": []
+    },
+    "Guia/Tecnologias/Webapp/Tailwind CSS.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/tecnologias/webapp/tailwind-css.html",
+      "dependencies": []
+    },
+    "Guia/Tecnologias/Webapp/Web Sockets.md": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 0,
+      "exportedPath": "guia/tecnologias/webapp/web-sockets.html",
+      "dependencies": []
+    },
+    "Guia/Mapa.canvas": {
+      "modifiedTime": 1708584838860,
+      "sourceSize": 134,
+      "exportedPath": "guia/mapa.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 21170,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 1424,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 141463,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 3450,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1708585177087,
+      "sourceSize": 5471,
+      "exportedPath": "index.html",
+      "dependencies": []
+    }
+  }
+}
